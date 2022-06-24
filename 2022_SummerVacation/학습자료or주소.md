@@ -1,5 +1,6 @@
 ## 리눅스 
-- <https://www.youtube.com/watch?v=tPWBF13JIVk>
+- <https://www.youtube.com/watch?v=tPWBF13JIVk> // 얄코
+- https://seclms.kisti.re.kr/learn/layout3/41aed67b1089dc9e5c4c568697989fef/learning // kacademy
 -------
 ## Github & Git
 - https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard
